@@ -1,0 +1,27 @@
+A. Quick Safety Checklist
+☐ I use strong and unique passwords for all accounts
+☐ I have enabled Two-Factor Authentication (2FA)
+☐ I avoid clicking on unknown or suspicious links
+☐ I do not share personal or sensitive information publicly
+☐ I avoid using public Wi-Fi for banking or important logins
+☐ My devices are regularly updated with latest security patches
+☐ I never share UPI PIN, OTP, or banking credentials
+☐ I verify all UPI payment requests before approving
+☐ I do not scan unknown QR codes
+☐ I always log out from shared/public devices
+------------------------------------------------------------------
+B. Key Prevention Tips (Top 6)
+Use Strong Passwords & Enable 2FA:
+Combine complex passwords with two-factor authentication for maximum account security.
+Stay Alert to Phishing Attacks:
+Never click suspicious links or download unknown attachments from emails/SMS.
+Protect Personal Information:
+Avoid oversharing sensitive details like phone numbers, addresses, or college IDs online.
+Practice Safe Internet Usage:
+Do not access important accounts on public Wi-Fi; always keep your devices updated.
+Ensure UPI & Financial Safety:
+Never share your UPI PIN or OTP, and always verify payment requests before approving.
+Report Cyber Incidents Immediately:
+In case of fraud or suspicious activity, report via:
+🌐 National Cyber Crime Portal: cybercrime.gov.in
+📞 Helpline: 1930
